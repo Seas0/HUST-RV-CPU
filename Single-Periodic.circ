@@ -838,7 +838,7 @@
     </comp>
     <comp lib="0" loc="(690,780)" name="Probe">
       <a name="facing" val="north"/>
-      <a name="radix" val="10signed"/>
+      <a name="radix" val="16"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="1" loc="(980,760)" name="AND Gate">
