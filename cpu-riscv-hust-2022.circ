@@ -14356,8 +14356,8 @@
     </comp>
     <comp lib="0" loc="(250,600)" name="Pin">
       <a name="tristate" val="false"/>
-      <a name="label" val="JMP"/>
-      <a name="labelloc" val="south"/>
+      <a name="label" val="FLUSH"/>
+      <a name="labelloc" val="west"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="2" loc="(250,120)" name="Multiplexer">
@@ -14918,8 +14918,8 @@
     </comp>
     <comp lib="0" loc="(250,2120)" name="Pin">
       <a name="tristate" val="false"/>
-      <a name="label" val="JMP"/>
-      <a name="labelloc" val="south"/>
+      <a name="label" val="FLUSH"/>
+      <a name="labelloc" val="west"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="2" loc="(250,1540)" name="Multiplexer">
@@ -15508,8 +15508,8 @@
     </comp>
     <comp lib="0" loc="(250,1970)" name="Pin">
       <a name="tristate" val="false"/>
-      <a name="label" val="JMP"/>
-      <a name="labelloc" val="south"/>
+      <a name="label" val="FLUSH"/>
+      <a name="labelloc" val="west"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="0" loc="(410,1390)" name="Pin">
@@ -16036,8 +16036,8 @@
     </comp>
     <comp lib="0" loc="(250,1970)" name="Pin">
       <a name="tristate" val="false"/>
-      <a name="label" val="JMP"/>
-      <a name="labelloc" val="south"/>
+      <a name="label" val="FLUSH"/>
+      <a name="labelloc" val="west"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="1" loc="(270,1920)" name="OR Gate">
